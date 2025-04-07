@@ -47,6 +47,6 @@ The `species_data.txt` serves as input for scripts 1 to 15 and includes the foll
 - gestation_length: Length of time of fetal growth in days as a proxy for a species’ reproductive output.
 - weaning age: Age at which primary nutritional dependency on the mother ends and independent foraging begins in days as a proxy for a species’ reproductive onset.
 - realm: Biogeographic realm in which a species has over 50% of its distribution.
-- criterionB: IUCN Red List Criterion B, with '1' representing species meeting the criterion and '0' representing species not meeting the criterion.
+- criterionB: Binary variable indicating whether a species was assessed exclusively under IUCN Red List Criterion B, where ‘1’ represents species assessed solely under Criterion B, and ‘0’ represents species assessed under other or multiple criteria.
 - rl_cat: IUCN Red List category assigned to a species.
 - threatened_status: Threatened status of a species.
