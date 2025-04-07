@@ -4,7 +4,7 @@
 
 This repository includes data and `R` code to reproduce the analyses shown in the article:
 
-**How should we measure habitat intactness? A global comparison of discrete, continuum, and hybrid models for predicting mammal extinction risk**
+**Global comparison of habitat intactness models for predicting extinction risk in terrestrial mammals**
 
 _by J.P. Ramírez-Delgado, M. Di Marco, C.J. Johnson, J.E.M. Watson, H.L. Beyer, L. De Assis Barros, R. Pillay, and O. Venter_
 
