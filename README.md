@@ -17,9 +17,11 @@ Users should have `R` version 4.2.3 or higher to execute the scripts.
 ## Data ##
 
 The `species_data.txt` serves as input for scripts 1 to 15 and includes the following variables:
-- taxon_id: IUCN taxon ID for each species. 
-- speciesName: Taxonomic name for each species.
-- order: Taxonomic order for each species.
+- taxon_id: UCN taxon identifier for each species.
+- speciesName: Scientific name of each species.
+- order: Taxonomic order to which each species belongs.
+- family: Taxonomic family to which each species belongs.
+- genus: Taxonomic genus to which each species belongs.
 - patch_matrix: Proportion of each species’ range overlapping with low human footprint levels (HFP values <3).
 - continuum_p5: 5th percentile of continuum model values within a species’ range.
 - continuum_p10: 10th percentile of continuum model values within a species’ range.
