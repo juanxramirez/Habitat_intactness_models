@@ -41,3 +41,11 @@ The `species_data.txt` serves as input for scripts 1 to 15 and includes the foll
 - criterionB: Binary variable indicating whether a species was assessed exclusively under IUCN Red List Criterion B, where ‘1’ represents species assessed solely under Criterion B, and ‘0’ represents species assessed under other or multiple criteria.
 - rl_cat: IUCN Red List category assigned to a species.
 - threatened_status: Threatened status of a species.
+
+Other R scripts in this repository support key components of the analysis:
+
+- `0_Intactness_map.R`: Generates the continuum model of habitat intactness using global human footprint data from Williams et al. (2020)*.
+- `1.1_Load_the_tree.R`: Loads a sample from the posterior distribution of mammalian phylogenies from Upham et al. (2019)*.
+- Scripts from `1.2` to `1.7`: Test for phylogenetic signal (Pagel’s λ) in extinction risk model residuals across different habitat intactness models (patch-matrix, continuum, and hybrid) and species groups (habitat generalists and habitat specialists).
+
+*Full citations for Williams et al. (2020) and Upham et al. (2019) are provided in the manuscript accompanying this repository.
