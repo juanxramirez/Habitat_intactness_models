@@ -16,7 +16,7 @@ Users should have `R` version 4.2.3 or higher to execute the scripts.
 
 ## Data ##
 
-The `species_data.txt` serves as input for scripts 1 to 15 and includes the following variables:
+The `species_data.txt` serves as input for scripts `1` to `15` and includes the following variables:
 - taxon_id: UCN taxon identifier for each species.
 - speciesName: Scientific name of each species.
 - order: Taxonomic order to which each species belongs.
