@@ -42,7 +42,7 @@ The `species_data.txt` serves as input for scripts 1 to 15 and includes the foll
 - rl_cat: IUCN Red List category assigned to a species.
 - threatened_status: Threatened status of a species.
 
-Other R scripts in this repository support key components of the analysis:
+Other `R` scripts in this repository support key components of the analysis:
 
 - `0_Intactness_map.R`: Generates the continuum model of habitat intactness using global human footprint data from Williams et al. (2020)*.
 - `1.1_Load_the_tree.R`: Loads a sample from the posterior distribution of mammalian phylogenies from Upham et al. (2019)*.
