@@ -8,7 +8,7 @@ This repository includes data and `R` code to reproduce the analyses shown in th
 
 _by J.P. Ramírez-Delgado, M. Di Marco, C.J. Johnson, J.E.M. Watson, H.L. Beyer, L. De Assis Barros, R. Pillay, and O. Venter_
 
-In this article, we compare the ability of patch-matrix, continuum, and hybrid models of habitat intactness to explain the risk of extinction for terrestrial mammals on a global scale.
+In this article, we compare the ability of patch-matrix, continuum, and hybrid models of habitat intactness to explain the risk of extinction in terrestrial mammals on a global scale.
 
 Users should have `R` version 4.2.3 or higher to execute the scripts.
 
